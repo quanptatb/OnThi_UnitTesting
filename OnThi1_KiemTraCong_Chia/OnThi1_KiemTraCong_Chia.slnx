@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MathCore.Tests/MathCore.Tests.csproj" />
+  <Project Path="OnThi1_KiemTraCong_Chia/OnThi1_KiemTraCong_Chia.csproj" />
+</Solution>

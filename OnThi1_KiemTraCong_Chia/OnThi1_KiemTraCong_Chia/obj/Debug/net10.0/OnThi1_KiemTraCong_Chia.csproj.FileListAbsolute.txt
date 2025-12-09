@@ -1,0 +1,12 @@
+D:\Work\Project\OnThi_UnitTesting\OnThi1_KiemTraCong_Chia\OnThi1_KiemTraCong_Chia\bin\Debug\net10.0\OnThi1_KiemTraCong_Chia.deps.json
+D:\Work\Project\OnThi_UnitTesting\OnThi1_KiemTraCong_Chia\OnThi1_KiemTraCong_Chia\bin\Debug\net10.0\OnThi1_KiemTraCong_Chia.dll
+D:\Work\Project\OnThi_UnitTesting\OnThi1_KiemTraCong_Chia\OnThi1_KiemTraCong_Chia\bin\Debug\net10.0\OnThi1_KiemTraCong_Chia.pdb
+D:\Work\Project\OnThi_UnitTesting\OnThi1_KiemTraCong_Chia\OnThi1_KiemTraCong_Chia\obj\Debug\net10.0\OnThi1_KiemTraCong_Chia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Project\OnThi_UnitTesting\OnThi1_KiemTraCong_Chia\OnThi1_KiemTraCong_Chia\obj\Debug\net10.0\OnThi1_KiemTraCong_Chia.AssemblyInfoInputs.cache
+D:\Work\Project\OnThi_UnitTesting\OnThi1_KiemTraCong_Chia\OnThi1_KiemTraCong_Chia\obj\Debug\net10.0\OnThi1_KiemTraCong_Chia.AssemblyInfo.cs
+D:\Work\Project\OnThi_UnitTesting\OnThi1_KiemTraCong_Chia\OnThi1_KiemTraCong_Chia\obj\Debug\net10.0\OnThi1_KiemTraCong_Chia.csproj.CoreCompileInputs.cache
+D:\Work\Project\OnThi_UnitTesting\OnThi1_KiemTraCong_Chia\OnThi1_KiemTraCong_Chia\obj\Debug\net10.0\OnThi1_KiemTraCong_Chia.sourcelink.json
+D:\Work\Project\OnThi_UnitTesting\OnThi1_KiemTraCong_Chia\OnThi1_KiemTraCong_Chia\obj\Debug\net10.0\OnThi1_KiemTraCong_Chia.dll
+D:\Work\Project\OnThi_UnitTesting\OnThi1_KiemTraCong_Chia\OnThi1_KiemTraCong_Chia\obj\Debug\net10.0\refint\OnThi1_KiemTraCong_Chia.dll
+D:\Work\Project\OnThi_UnitTesting\OnThi1_KiemTraCong_Chia\OnThi1_KiemTraCong_Chia\obj\Debug\net10.0\OnThi1_KiemTraCong_Chia.pdb
+D:\Work\Project\OnThi_UnitTesting\OnThi1_KiemTraCong_Chia\OnThi1_KiemTraCong_Chia\obj\Debug\net10.0\ref\OnThi1_KiemTraCong_Chia.dll
